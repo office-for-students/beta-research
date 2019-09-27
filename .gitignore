@@ -135,3 +135,6 @@ beta-data-pipelines.zip
 
 # large KIS files
 kis.xml
+
+# Local setup
+setup_env_vars.sh
