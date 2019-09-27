@@ -18,7 +18,7 @@ def create_cosmos_entity(id):
 
 new_docs = []
 counter = 0
-while counter < 50:
+while counter < 1000:
     new_docs.append(create_cosmos_entity(str(uuid.uuid4())))
     counter += 1
 
